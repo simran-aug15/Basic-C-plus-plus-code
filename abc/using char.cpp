@@ -1,4 +1,5 @@
 // using char
+
 #include <iostream>
 using namespace std;
 int main()
@@ -9,4 +10,5 @@ int main()
   cout << "you enter " << ch;
 
   return 0;
-}
+}      
+
